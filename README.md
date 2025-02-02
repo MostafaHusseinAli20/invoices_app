@@ -3,19 +3,19 @@ The Invoices System is a web application developed using Laravel Framework (PHP)
 
 ## System Features
 
-# Invoice Managemet
+## Invoice Managemet
 Create new invoices with details such as amount, issue date, and due dat
 Edit or delete invoices when neede
 
-# Invoice Scheduli
+## Invoice Scheduli
 Store invoice issue date and due date.
 Send automated reminders when the due date is approaching.
 
-# Invoice Archiving
+## Invoice Archiving
 Archive paid invoices for record-keeping.
 Search and filter invoices by date or status.
 
-# Reports & Analytics
+## Reports & Analytics
 Generate monthly and yearly reports on paid and overdue invoices.
 Provide financial insights to help companies plan their budgets.
 
@@ -25,9 +25,3 @@ Database: MySQL
 Authentication: Laravel Auth (with company registration support)
 Notifications: Email alerts for due invoices
 File Storage: Laravel Filesystem for invoice archiving
-
-## screenshots
-![Alt text](assets/screenshots/1.png)
-![Alt text](assets/screenshots/2.png)
-![Alt text](assets/screenshots/3.png)
-![Alt text](assets/screenshots/4.png)
