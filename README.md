@@ -28,4 +28,4 @@ Notifications: Email alerts for due invoices<br>
 File Storage: Laravel Filesystem for invoice archiving
 
 ## Screenshots
-<img scr="public/assets/screenshots/1.png"/>
+<img scr="public/assets/screenshots/1.png" alt="Alt text" width="300">
