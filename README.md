@@ -26,3 +26,9 @@ Database: MySQL<br>
 Authentication: Laravel Auth (with company registration support)<br>
 Notifications: Email alerts for due invoices<br>
 File Storage: Laravel Filesystem for invoice archiving
+
+## Screenshots
+![Alt text](public/assets/screenshots/1.png)
+![Alt text](public/assets/screenshots/2.png)
+![Alt text](public/assets/screenshots/3.png)
+![Alt text](public/assets/screenshots/4.png)
